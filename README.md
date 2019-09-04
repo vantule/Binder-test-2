@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vantule/modulimap/master)
 
 
-It will transfer you to the binder portal and you need to wait for 1 to 3 minutes for binder to get ready. After the installation is finished, click on the file modulimap.ipynb.
+It will transfer you to the binder portal and you need to wait for 1 to 3 minutes for binder to get ready. After the installation is finished, click on the file Modulimap.ipynb.
 
 <strong>Step 2: Run the notebook</strong>
 To run a cell, select it and hit Ctrl+enter. The first cell is obligatory (it defines the main function). 
